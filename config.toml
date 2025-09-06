@@ -1,0 +1,5 @@
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.135.0"
+theme = "hugo-brewm"
